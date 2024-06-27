@@ -13,7 +13,7 @@ import store from "./store";
 import { login as loginHandle, logout as logoutHandle } from "./store/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDDyfCyVZa8H5r0z85dAOq8m-3fmZwhYe8",
+  apiKey: "***",
   authDomain: "authentication-fde47.firebaseapp.com",
   projectId: "authentication-fde47",
   storageBucket: "authentication-fde47.appspot.com",
